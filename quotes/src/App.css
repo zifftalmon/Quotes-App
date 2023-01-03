@@ -1,0 +1,26 @@
+* {
+  margin:0;
+  padding:0;
+}
+.quoteDiv {
+  box-sizing: border-box;
+  background-color: white;
+  display: flex;
+  margin: 7em auto;
+  flex-direction: column;
+  width: 45vw;
+  height: 45vh;
+  border-radius: 10px;
+}
+.quoteDiv button {
+  color: white;
+  margin: 20px;
+  position: fixed;
+  top: 18em;
+  right: 22em;
+  width: 6em;
+  height: 2.5em;
+  font-size: 16px;
+  border: 2pxsolid black;
+  background-color: #345;
+}
